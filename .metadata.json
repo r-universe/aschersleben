@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cointmonitoR",
+    "oncran": true
+  },
+  {
+    "package": "cointReg",
+    "oncran": true
+  }
+]
