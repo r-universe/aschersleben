@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "cointmonitoR"]
-	path = cointmonitoR
-	url = https://github.com/aschersleben/cointmonitor
-	shallow = true
-	registered = true
 [submodule "cointReg"]
 	path = cointReg
 	url = https://github.com/aschersleben/cointreg
+	shallow = true
+	registered = true
+[submodule "cointmonitoR"]
+	path = cointmonitoR
+	url = https://github.com/aschersleben/cointmonitor
 	shallow = true
 	registered = true

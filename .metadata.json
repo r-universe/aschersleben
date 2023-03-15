@@ -1,10 +1,10 @@
 [
   {
-    "package": "cointmonitoR",
+    "package": "cointReg",
     "oncran": true
   },
   {
-    "package": "cointReg",
+    "package": "cointmonitoR",
     "oncran": true
   }
 ]
