@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cointmonitoR"]
-	path = cointmonitoR
-	url = https://github.com/aschersleben/cointmonitor
 [submodule "cointReg"]
 	path = cointReg
 	url = https://github.com/aschersleben/cointreg
+[submodule "cointmonitoR"]
+	path = cointmonitoR
+	url = https://github.com/aschersleben/cointmonitor
